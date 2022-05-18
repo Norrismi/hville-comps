@@ -2,7 +2,7 @@ const express = require('express');
 const app = express();
 const PORT = 5555;
 
-//const data = get data
+const data = require('./scrappedData/allData.json')
 
 
 app.get('/data', (req,res)=>{
