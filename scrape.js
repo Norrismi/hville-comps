@@ -3,9 +3,9 @@ const fs = require('fs');
 
 
 (async () => {
-    const price = require('./scrappedData/price.json');
-    const location = require('./scrappedData/location.json');
-    const sqft = require('./scrappedData/sqft.json');
+    // const price = require('./scrappedData/price.json');
+    // const location = require('./scrappedData/location.json');
+    // const sqft = require('./scrappedData/sqft.json');
 
     const browser = await puppeteer.launch({ headless: false });
     const page = await browser.newPage();
@@ -29,12 +29,19 @@ const fs = require('fs');
     })
 
 
-    await fs.writeFileSync('./scrappedData/price.json', JSON.stringify(propertyPrice, null, 1))
+    await fs.writeFileSync('./scrappedData/price.json', JSON.stringify(propertyPrice, null, 2))
     await fs.writeFileSync('./scrappedData/location.json', JSON.stringify(propertyLocation, null, 1))
     await fs.writeFileSync('./scrappedData/sqft.json', JSON.stringify(propertySqft, null, 1))
 
     await browser.close();
 
-    const data = price.map((e, i) => [e, sqft[i], location[i]]);
-    await fs.writeFileSync('./scrappedData/allData.json', JSON.stringify(data, null, 1))
+    // const data = price.map((e, i) =>  {
+    //     return {
+    //         price: e,
+    //         sqft: sqft[i],
+    //         location: location[i]
+    //     }
+    // });
+  
+    // await fs.writeFileSync('./scrappedData/allData.json', JSON.stringify(data, null, 1))
 })();
