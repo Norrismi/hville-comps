@@ -1,204 +1,282 @@
-{
-    
-    "results":[
+[
  {
   "price": "$699,000",
+  "beds": "—Beds",
+  "baths": "—Baths",
   "sqft": "3.97 Acres (Lot)",
-  "location": "7139 Purrysburg Rd, Hardeeville, SC 29927"
+  "address": "7139 Purrysburg Rd, Hardeeville, SC 29927"
  },
  {
   "price": "$424,490+",
+  "beds": "3 Beds",
+  "baths": "2.5 Baths",
   "sqft": "2,392 Sq. Ft.",
-  "location": "Cabana Bay, Hardeeville, SC 29927"
+  "address": "Cabana Bay, Hardeeville, SC 29927"
+ },
+ {
+  "price": "$283,250+",
+  "beds": "2 Beds",
+  "baths": "2 Baths",
+  "sqft": "1,204 Sq. Ft.",
+  "address": "Bamboo, Hardeeville, SC 29927"
  },
  {
   "price": "$438,240+",
+  "beds": "3 Beds",
+  "baths": "3.5 Baths",
   "sqft": "2,564 Sq. Ft.",
-  "location": "Trinidad, Hardeeville, SC 29927"
+  "address": "Trinidad, Hardeeville, SC 29927"
  },
  {
   "price": "$433,240+",
+  "beds": "2 Beds",
+  "baths": "2.5 Baths",
   "sqft": "2,338 Sq. Ft.",
-  "location": "Aruba, Hardeeville, SC 29927"
+  "address": "Aruba, Hardeeville, SC 29927"
  },
  {
   "price": "$431,240+",
+  "beds": "2 Beds",
+  "baths": "2.5 Baths",
   "sqft": "2,310 Sq. Ft.",
-  "location": "Bimini, Hardeeville, SC 29927"
+  "address": "Bimini, Hardeeville, SC 29927"
  },
  {
   "price": "$356,790+",
+  "beds": "2 Beds",
+  "baths": "2 Baths",
   "sqft": "1,862 Sq. Ft.",
-  "location": "Nevis, Hardeeville, SC 29927"
+  "address": "Nevis, Hardeeville, SC 29927"
  },
  {
   "price": "$349,790+",
+  "beds": "2 Beds",
+  "baths": "2 Baths",
   "sqft": "1,785 Sq. Ft.",
-  "location": "Barbuda, Hardeeville, SC 29927"
+  "address": "Barbuda, Hardeeville, SC 29927"
  },
  {
   "price": "$293,900+",
+  "beds": "2 Beds",
+  "baths": "2.5 Baths",
   "sqft": "1,691 Sq. Ft.",
-  "location": "The Egret, Hardeeville, SC 29927"
+  "address": "The Egret, Hardeeville, SC 29927"
  },
  {
   "price": "$314,900+",
+  "beds": "3 Beds",
+  "baths": "2.5 Baths",
   "sqft": "2,222 Sq. Ft.",
-  "location": "The Troup, Hardeeville, SC 29927"
+  "address": "The Troup, Hardeeville, SC 29927"
  },
  {
   "price": "$288,900+",
+  "beds": "2 Beds",
+  "baths": "2 Baths",
   "sqft": "1,604 Sq. Ft.",
-  "location": "The Ibis, Hardeeville, SC 29927"
+  "address": "The Ibis, Hardeeville, SC 29927"
  },
  {
   "price": "$285,900+",
+  "beds": "2 Beds",
+  "baths": "2 Baths",
   "sqft": "1,455 Sq. Ft.",
-  "location": "The Heron, Hardeeville, SC 29927"
+  "address": "The Heron, Hardeeville, SC 29927"
  },
  {
   "price": "$295,900+",
+  "beds": "3 Beds",
+  "baths": "2.5 Baths",
   "sqft": "2,025 Sq. Ft.",
-  "location": "The May River, Hardeeville, SC 29927"
+  "address": "The May River, Hardeeville, SC 29927"
  },
  {
   "price": "$278,900+",
+  "beds": "3 Beds",
+  "baths": "2 Baths",
   "sqft": "1,477 Sq. Ft.",
-  "location": "The Rose Dhu, Hardeeville, SC 29927"
+  "address": "The Rose Dhu, Hardeeville, SC 29927"
  },
  {
   "price": "$282,900+",
+  "beds": "3 Beds",
+  "baths": "2.5 Baths",
   "sqft": "1,720 Sq. Ft.",
-  "location": "The Cumberland, Hardeeville, SC 29927"
+  "address": "The Cumberland, Hardeeville, SC 29927"
  },
  {
   "price": "$298,900+",
+  "beds": "3 Beds",
+  "baths": "2.5 Baths",
   "sqft": "1,662 Sq. Ft.",
-  "location": "The Ashley River II, Hardeeville, SC 29927"
+  "address": "The Ashley River II, Hardeeville, SC 29927"
  },
  {
   "price": "$313,900+",
+  "beds": "3 Beds",
+  "baths": "2.5 Baths",
   "sqft": "2,120 Sq. Ft.",
-  "location": "The Washington II, Hardeeville, SC 29927"
+  "address": "The Washington II, Hardeeville, SC 29927"
  },
  {
   "price": "$331,900+",
+  "beds": "4 Beds",
+  "baths": "3 Baths",
   "sqft": "2,685 Sq. Ft.",
-  "location": "The Waccamaw II, Hardeeville, SC 29927"
+  "address": "The Waccamaw II, Hardeeville, SC 29927"
  },
  {
   "price": "$310,900+",
+  "beds": "3 Beds",
+  "baths": "2.5 Baths",
   "sqft": "2,104 Sq. Ft.",
-  "location": "The Warren, Hardeeville, SC 29927"
+  "address": "The Warren, Hardeeville, SC 29927"
  },
  {
   "price": "$312,900+",
+  "beds": "3 Beds",
+  "baths": "2.5 Baths",
   "sqft": "2,014 Sq. Ft.",
-  "location": "The Reynolds, Hardeeville, SC 29927"
+  "address": "The Reynolds, Hardeeville, SC 29927"
  },
  {
   "price": "$293,900+",
+  "beds": "3 Beds",
+  "baths": "2.5 Baths",
   "sqft": "1,913 Sq. Ft.",
-  "location": "The Orleans, Hardeeville, SC 29927"
+  "address": "The Orleans, Hardeeville, SC 29927"
  },
  {
   "price": "$282,900+",
+  "beds": "2 Beds",
+  "baths": "2 Baths",
   "sqft": "1,326 Sq. Ft.",
-  "location": "The Ridgeland, Hardeeville, SC 29927"
+  "address": "The Ridgeland, Hardeeville, SC 29927"
  },
  {
   "price": "$312,900+",
+  "beds": "3 Beds",
+  "baths": "2.5 Baths",
   "sqft": "2,309 Sq. Ft.",
-  "location": "The Jasper, Hardeeville, SC 29927"
+  "address": "The Jasper, Hardeeville, SC 29927"
  },
  {
   "price": "$285,900+",
+  "beds": "3 Beds",
+  "baths": "2.5 Baths",
   "sqft": "1,548 Sq. Ft.",
-  "location": "The Malind, Hardeeville, SC 29927"
+  "address": "The Malind, Hardeeville, SC 29927"
  },
  {
   "price": "$286,900+",
+  "beds": "3 Beds",
+  "baths": "2.5 Baths",
   "sqft": "1,648 Sq. Ft.",
-  "location": "The Katherine, Hardeeville, SC 29927"
+  "address": "The Katherine, Hardeeville, SC 29927"
  },
  {
   "price": "$290,900+",
+  "beds": "3 Beds",
+  "baths": "2 Baths",
   "sqft": "1,482 Sq. Ft.",
-  "location": "The Hampton II, Hardeeville, SC 29927"
+  "address": "The Hampton II, Hardeeville, SC 29927"
  },
  {
   "price": "$285,900+",
+  "beds": "3 Beds",
+  "baths": "2.5 Baths",
   "sqft": "1,479 Sq. Ft.",
-  "location": "The Helmsley, Hardeeville, SC 29927"
+  "address": "The Helmsley, Hardeeville, SC 29927"
  },
  {
   "price": "$299,900+",
+  "beds": "3 Beds",
+  "baths": "2.5 Baths",
   "sqft": "2,010 Sq. Ft.",
-  "location": "The Crawford II, Hardeeville, SC 29927"
+  "address": "The Crawford II, Hardeeville, SC 29927"
  },
  {
   "price": "$300,900+",
+  "beds": "3 Beds",
+  "baths": "2.5 Baths",
   "sqft": "1,937 Sq. Ft.",
-  "location": "The Chippewah II, Hardeeville, SC 29927"
+  "address": "The Chippewah II, Hardeeville, SC 29927"
  },
  {
   "price": "$291,900+",
+  "beds": "4 Beds",
+  "baths": "3 Baths",
   "sqft": "1,788 Sq. Ft.",
-  "location": "The Cayce, Hardeeville, SC 29927"
+  "address": "The Cayce, Hardeeville, SC 29927"
  },
  {
   "price": "$285,900+",
+  "beds": "3 Beds",
+  "baths": "3 Baths",
   "sqft": "1,703 Sq. Ft.",
-  "location": "The Chapin, Hardeeville, SC 29927"
+  "address": "The Chapin, Hardeeville, SC 29927"
  },
  {
   "price": "$298,250+",
+  "beds": "2 Beds",
+  "baths": "2 Baths",
   "sqft": "1,378 Sq. Ft.",
-  "location": "Dreamsicle, Hardeeville, SC 29927"
+  "address": "Dreamsicle, Hardeeville, SC 29927"
  },
  {
   "price": "$286,250+",
+  "beds": "2 Beds",
+  "baths": "2 Baths",
   "sqft": "1,321 Sq. Ft.",
-  "location": "Camellia, Hardeeville, SC 29927"
+  "address": "Camellia, Hardeeville, SC 29927"
  },
  {
   "price": "$440,740+",
+  "beds": "3 Beds",
+  "baths": "3.5 Baths",
   "sqft": "2,549 Sq. Ft.",
-  "location": "Trinidad Bay, Hardeeville, SC 29927"
+  "address": "Trinidad Bay, Hardeeville, SC 29927"
  },
  {
   "price": "$405,990+",
+  "beds": "2 Beds",
+  "baths": "2.5 Baths",
   "sqft": "2,110 Sq. Ft.",
-  "location": "Hammock Bay, Hardeeville, SC 29927"
+  "address": "Hammock Bay, Hardeeville, SC 29927"
  },
  {
   "price": "$410,990+",
+  "beds": "2 Beds",
+  "baths": "2.5 Baths",
   "sqft": "2,236 Sq. Ft.",
-  "location": "Breeze Bay, Hardeeville, SC 29927"
+  "address": "Breeze Bay, Hardeeville, SC 29927"
  },
  {
   "price": "$348,290+",
+  "beds": "2 Beds",
+  "baths": "2.5 Baths",
   "sqft": "1,743 Sq. Ft.",
-  "location": "Tortola, Hardeeville, SC 29927"
+  "address": "Tortola, Hardeeville, SC 29927"
  },
  {
   "price": "$347,790+",
+  "beds": "2 Beds",
+  "baths": "2 Baths",
   "sqft": "1,785 Sq. Ft.",
-  "location": "Barbuda Bay, Hardeeville, SC 29927"
+  "address": "Barbuda Bay, Hardeeville, SC 29927"
  },
  {
   "price": "$302,750+",
+  "beds": "2 Beds",
+  "baths": "2 Baths",
   "sqft": "1,466 Sq. Ft.",
-  "location": "Aloha, Hardeeville, SC 29927"
+  "address": "Aloha, Hardeeville, SC 29927"
  },
  {
   "price": "$441,240+",
+  "beds": "3 Beds",
+  "baths": "3 Baths",
   "sqft": "2,438 Sq. Ft.",
-  "location": "St. Bart, Hardeeville, SC 29927"
- },
- {
-  "price": "$421,990+",
-  "sqft": "2,392 Sq. Ft.",
-  "location": "Cabana, Hardeeville, SC 29927"
+  "address": "St. Bart, Hardeeville, SC 29927"
  }
-]}
+]
