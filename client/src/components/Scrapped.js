@@ -1,45 +1,25 @@
 import { useEffect, useState } from 'react'
+// import {firebase} from '../config/firebase'
+//import firebase from "firebase/app";
+
 
 function Scrapped() {
 
-    const [serverData, setServerData] = useState([{}])
+    // const [property, setProperty] = useState()
+    // const firestore = firebase.firestore().collection('scrape')
 
+    // useEffect(() => {
+    //     firestore.doc('scrape').onSnapshot(item => setProperty(item.data().scrape))
+    
+    
+    //   }, [])
 
-    useEffect(() => {
-        async function fetchProperty() {
-            let res = await fetch('/api');
-            let data = await res.json();
-            setServerData(data)
-        }
-
-        fetchProperty()
-    }, [])
-
-    console.log('serverData', serverData)
+    //   console.log(`property: ${property}`)
 
 
     return (
         <div>
-            <h1>Hello from scrapped</h1>
-            {(typeof serverData.title === 'undefined')
-                ? (<p>Loading...</p>)
-                : (
-                    serverData.title.map((e, i) => (
-                        <ul key={i}>
-                            {e}
-                        </ul>
-                    ))
-
-                )}
-
-            {/* {serverData.info.map((e, i) => (
-
-
-                <p key={i}>{e}</p>
-            )
-            )} */}
-
-
+                Hello from scrapped
         </div>
     )
 }

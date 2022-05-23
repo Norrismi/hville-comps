@@ -23,6 +23,7 @@
     "firebase": "^9.8.1",
     "firebase-admin": "^10.2.0",
     "firestore-export-import": "^1.1.0",
+    "node-polyfill-webpack-plugin": "^1.1.4",
     "nodemon": "^2.0.16",
     "puppeteer": "^14.1.0"
   },
