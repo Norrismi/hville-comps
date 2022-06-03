@@ -20,11 +20,6 @@ app.get('/address', (req, res) => {
 })
 
 
-app.get('/info', (req, res) => {
-    res.json({price, sqft})
-})
-
-
 
 app.listen(PORT, () => {
     console.log(`listening on http://localhost:${PORT}/`)
